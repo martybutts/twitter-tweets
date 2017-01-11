@@ -1,0 +1,12 @@
+h2 {
+    font-size:1.25em;
+    font-weight:bold;
+}
+
+#SearchButton{
+    width: 50px;
+}
+
+.content {
+    padding: 1em;
+}
